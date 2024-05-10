@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.exe
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.deps.json
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.runtimeconfig.json
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.dll
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\bin\Debug\net8.0\CircleObjects.pdb
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.AssemblyInfo.cs
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.dll
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\refint\CircleObjects.dll
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.pdb
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\CircleObjects.genruntimeconfig.cache
+C:\Users\kyram\source\repos\CircleObjects\CircleObjects\obj\Debug\net8.0\ref\CircleObjects.dll
